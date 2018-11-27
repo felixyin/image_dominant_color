@@ -14,7 +14,6 @@
     compose install
     
 ## thrift生成py和php代码
-    
-   brew install thrift #mac系统
-   thrift -r --gen py imagecolor.thrift
-   thrift -r --gen php imagecolor.thrift
+    brew install thrift 
+    thrift -r --gen py imagecolor.thrift
+    thrift -r --gen php imagecolor.thrift
