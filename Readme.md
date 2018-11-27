@@ -11,7 +11,7 @@
     下载后，用phpstorm打开 thrift_client_php
     composer require apache/thrift
     或者
-    compose install
+    composer install
     
 ## thrift生成py和php代码
     brew install thrift 
